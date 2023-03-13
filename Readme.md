@@ -1,0 +1,1 @@
+<h1 align='cneter'>Django project</h2>
